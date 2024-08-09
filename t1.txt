@@ -1,6 +1,10 @@
 
 t1 changed
 on hr branch we are changing
+<<<<<<< HEAD
 hence line changed is added in file after git merge hr command
 
 now entering data to get change at global from local pc
+=======
+changing from global to local now
+>>>>>>> 009000d5ba003a69767e68ac938921018fb34604
